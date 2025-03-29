@@ -1,4 +1,7 @@
 # e-pharma_recommendation
+
+The csv files cannot be shared only the contents of the notebook are available to be seen.
+
 Tasks
 1. EDA
 2. Predicts the products that a customer is likely to purchase based on their past interactions.
